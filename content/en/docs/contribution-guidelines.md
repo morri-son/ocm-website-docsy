@@ -24,7 +24,7 @@ use GitHub pull requests for this purpose. Consult
 [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
 information on using pull requests.
 
-## Quick start with Netlify
+## Quick start with Open Component Model
 
 Here's a quick guide to updating the docs. It assumes you're familiar with the
 GitHub workflow and you're happy to use the automated preview of your doc
